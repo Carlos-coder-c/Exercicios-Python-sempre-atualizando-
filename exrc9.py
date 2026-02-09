@@ -1,6 +1,6 @@
 seu_nome = str(input("Digite seu primeiro nome: "))
 
-letras = len(seu_nome) = resultado
+resultado = len(seu_nome)
 
 if resultado <= 4:
      print(f'Seu nome {seu_nome}, ele tem {resultado} letras ')
