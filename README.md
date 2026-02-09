@@ -22,5 +22,5 @@ Cada exercício busca reforçar raciocínio, clareza de código e boas decisões
 Clone o repositório:
 
 ```bash
-git clone <https://github.com/Carlos-coder-c/Exercicios-Python-sempre-atualizando>
+git clone <https://github.com/Carlos-coder-c/Exercicios-Python->
 cd exercicios-python
