@@ -2,8 +2,8 @@
 
 numero = int(input('Digite um número inteiro: '))
 
-num_par = numero / 2
-num_impar = numero not / 2
+num_par = numero / 2 
+num_impar = numero  % 2 != 0
 
 try:
 if numero == num_par:
