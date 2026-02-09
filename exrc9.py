@@ -7,7 +7,7 @@ if resultado <= 4:
      print("Ele é curto")
 
 if resultado  == 5 or 6:
-    prints(f"Seu nome {seu_nome}, contem {resultado} letras")
+    print(f"Seu nome {seu_nome}, contem {resultado} letras")
     print("Seu nome é normal")
 
 else:
