@@ -12,4 +12,4 @@ nova_str = "*"
 while nome < 7: 
     nome += '* '
     print(nome)
-     break 
+     
