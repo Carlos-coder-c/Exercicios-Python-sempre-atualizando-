@@ -3,8 +3,6 @@ nome = 'Carlos'
 tamanho = len(nome)
 
 
-print(nome)
-
 
 nova_str =0
 
