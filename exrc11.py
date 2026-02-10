@@ -12,5 +12,5 @@ while nova_str < tamanho:
     
     print(nome[nova_str],  end="*")
     nova_str += 1
-    break
+    
      
