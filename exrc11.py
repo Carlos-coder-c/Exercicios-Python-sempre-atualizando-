@@ -9,7 +9,7 @@ print(tamanho)
 
 nova_str = "*"
 
-while nome < 7: 
+while nome: 
     nome += '* '
     print(nome)
      
