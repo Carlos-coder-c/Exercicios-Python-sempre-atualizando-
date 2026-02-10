@@ -9,7 +9,7 @@ print(tamanho)
 
 nova_str = "*"
 
-while nome:
-    nome[] += * 
+while nome < 7: 
+    nome[0] += * 
     print(nome)
      break 
