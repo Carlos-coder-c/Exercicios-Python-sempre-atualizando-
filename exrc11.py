@@ -10,6 +10,6 @@ print(tamanho)
 nova_str = "*"
 
 while nome < 7: 
-    nome += * 
+    nome += '* '
     print(nome)
      break 
