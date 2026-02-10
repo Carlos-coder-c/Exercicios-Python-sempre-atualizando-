@@ -12,4 +12,5 @@ nova_str = "*"
 while nome: 
     nome += '* '
     print(nome)
+    break
      
