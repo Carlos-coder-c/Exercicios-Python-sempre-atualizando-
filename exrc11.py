@@ -4,13 +4,13 @@ tamanho = len(nome)
 
 
 print(nome)
-print(tamanho)
 
 
-nova_str = "*"
+nova_str =0
 
-while nome: 
-    nome += '* '
-    print(nome)
+while nova_str < tamanho: 
+    
+    print(nome[nova_str],  end="*")
+    nova_str += 1
     break
      
