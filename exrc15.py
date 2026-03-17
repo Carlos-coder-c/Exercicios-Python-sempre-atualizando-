@@ -3,7 +3,7 @@
 def par_impar(numero):
     numero_par = numero % 2 == 0
 
-    if numero_par == 0:
+    if numero_par:
         return f'O Numero {numero} é par'
     return f'Número {numero} é impar'
 
