@@ -7,5 +7,8 @@ def par_impar(numero):
         return f'O Numero {numero} é par'
     return f'Número {numero} é impar'
 
-resultado = par_impar
-print(resultado(3))
+outro_par_impar = par_impar
+dois_e_par = outro_par_impar(2)
+
+print(dois_e_par)
+print(par_impar(3))
