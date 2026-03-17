@@ -8,4 +8,4 @@ def par_impar(numero):
     return 'Número é impar'
 
 resultado = par_impar(10)
-print(resultado)
+print(resultado, numero)
